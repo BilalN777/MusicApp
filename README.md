@@ -1,7 +1,7 @@
 
 ## Overview
 
-This repository contains two Android applications: `ClipServer` and `AudioClient`, developed as part of the coursework for CS478 at [University Name]. The `ClipServer` app is designed to manage and play audio clips, while `AudioClient` interacts with `ClipServer` to control audio playback.
+This repository contains two Android applications: `ClipServer` and `AudioClient`. The `ClipServer` app is designed to manage and play audio clips, while `AudioClient` interacts with `ClipServer` to control audio playback.
 
 ### ClipServer
 
