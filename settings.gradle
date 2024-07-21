@@ -16,5 +16,6 @@ dependencyResolutionManagement {
 rootProject.name = "MusicApp"
 include ':app'
 
+
 include ':AudioClient'
 include ':ClipServer'
