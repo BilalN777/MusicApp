@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioClient</string>
+    <string name="start_service">Start Service</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop_playback">Stop Playback</string>
+    <string name="stop_and_unbind_service">Stop and Unbind Service</string>
+</resources>
